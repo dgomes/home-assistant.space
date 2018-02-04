@@ -6,12 +6,15 @@ navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
+author: dgomes
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+Home-Assistant Space is a website that brings you all the information about custom platforms, components, UI's, themes that have not made it yet into the Home-Assistant releases, but for which many users find interest in deploying and test in their own setups.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+> Home-Assistant Space is not affiliated with the [Home-Assistant](http://home-assistant.io), this is a community driven website, non-profit and fully open to contributions.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+If you're a developer: [Fork this website](https://github.com/dgomes/home-assistant.space), and pull request a new post consisting of your custom component/UI/theme.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+If you're a techsavvy user who would like to share configurations, tips, etc: You can also Fork this website and create a post, or send us your content in any format, and one of our editors will help you post through the website.
+
+Finally, this is a site by the community, for the community, but which does not intend to compete with the [official community](https://community.home-assistant.io), and therefore does not include commenting/discussion. You are nonetheless free to comment our posts through the official community and [discord](https://discord.gg/c5DvZ4e).
