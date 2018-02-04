@@ -69,10 +69,10 @@ lsi: False
 username: myJekyll
 repo: jasper2
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://myJekyll.github.io/jasper2/
-source_url:  https://github.com/myJekyll/jasper2/
+relative_source: _site/ 
+destination: _site/
+production_url:  http://home-assistant.space
+source_url:  https://github.com/dgomes/home-assistant.space
 
 exclude:
   - README.md
