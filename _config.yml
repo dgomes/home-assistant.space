@@ -9,7 +9,7 @@ baseurl: /
 
 # Website info
 title: Home-Assistant Space 
-description: Sharing Home-Assistant Custom Components, UI's, Themes, Configurations 
+description: Sharing Home Assistant Custom Components, UI's, Themes, Configurations 
 cover: assets/images/blog-cover.png
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
