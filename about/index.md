@@ -9,9 +9,9 @@ subclass: 'post page'
 author: dgomes
 ---
 
-Home-Assistant Space is a website that brings you all the information about custom platforms, components, UI's, themes that have not made it yet into the Home-Assistant releases, but for which many users find interest in deploying and test in their own setups.
+Home-Assistant Space is a website that brings you all the information about custom platforms, components, UI's, themes that have not made it yet into the Home Assistant releases, but for which many users find interest in deploying and test in their own setups.
 
-> Home-Assistant Space is not affiliated with the [Home-Assistant](http://home-assistant.io), this is a community driven website, non-profit and fully open to contributions.
+> Home-Assistant Space is not affiliated with the [Home Assistant](http://home-assistant.io), this is a community driven website, non-profit and fully open to contributions.
 
 If you're a developer: [Fork this website](https://github.com/dgomes/home-assistant.space), and pull request a new post consisting of your custom component/UI/theme.
 
